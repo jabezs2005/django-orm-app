@@ -86,12 +86,9 @@ admin.site.register(Student,StudentAdmin)
 admin.site.register(Employee,EmployeeAdmin)
 
 ```
-## OUTPUT
-
+### OUTPUT:
 ### Server Output:
 ![django server output](https://github.com/jabezs2005/django-orm-app/assets/147473463/f672e449-02bc-4834-97d2-7c0201621150)
 
-
-
-## RESULT :
+### RESULT :
 Django ORM web application have been created succesfully.
