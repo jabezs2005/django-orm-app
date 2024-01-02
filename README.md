@@ -93,4 +93,5 @@ admin.site.register(Employee,EmployeeAdmin)
 
 
 
-## RESULT
+## RESULT :
+Django ORM web application have been created succesfully.
